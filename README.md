@@ -1,0 +1,1 @@
+- kakao_beep.bat : 카카오 사운드 비활성 
